@@ -1,0 +1,25 @@
+# NetBeans build and artifact directories
+/build/
+/dist/
+
+# NetBeans user-specific settings and generated files
+/nbproject/private/
+/nbproject/genfiles.properties
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.db
+
+# Temporary and swap files
+*.tmp
+*.bak
+*.swp
+*~
+*.log
+*.log.*
+
+# Crash dumps and JVM logs
+hs_err_pid*.log
+replay_pid*.log
