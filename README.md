@@ -156,3 +156,8 @@ The application utilizes specialized FlatLaf styling parameters:
 *   **Client Properties**: Modern components leverage client styles such as `arc:800` for perfectly rounded controls, giving the application a clean, modern macOS/Windows-11 aesthetic rather than browser default styles.
 *   **Smooth Gradients**: Custom paint renderers implement smooth background gradients (e.g. using hex decodes `#3E5151` to `#000000`) for navigation menus.
 *   **Vector Graphics**: Pure SVG icons are used instead of legacy PNGs for crisp, pixel-perfect scaling at higher screen resolutions.
+
+## 👩💻 Author
+**Ashini Sudusingha**  
+*Full-Stack Software Engineer & Designer*  
+*Passionate about creating modern, beautifully aesthetic, and highly functional web solutions.*
